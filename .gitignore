@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Editors
+*.sublime-workspace
+*.sublime-project
+.idea/
+.vscode/
+*.swp
+*~
+
+# Dependencies
+node_modules/
